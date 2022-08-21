@@ -46,6 +46,6 @@ int segDP = 13; // pin for control decimal point
 
 #define BTN2 A3   // pin for increase value + (A3---BTN2--GND)
 
-#define sound 6 // pin for control alarma -BUZZER---GND)
+#define sound 6 // pin for control alarma (BUZZER---GND)
 
 #define LDR A6  // pin for photoresistor (+5V---LDR---A6--10k---GND)                 
