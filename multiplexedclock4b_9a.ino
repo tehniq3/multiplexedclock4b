@@ -57,7 +57,7 @@ int measurements = 500;
 
 #define BTN1 A2   // pin for MENU/change  (A2---BTN1---GND)
 #define BTN2 A3   // pin for increase value + (A3---BTN2--GND)
-#define sound 6 // pin for control alarma (+5V---BUZZER---GND)
+#define sound 6 // pin for sounder (BUZZER---GND)
 #define LDR A6  // pin for photoresistor (+5V---LDR---A6--10k---GND)
 
 int DISPLAY_BRIGHTNESS = 1000;
