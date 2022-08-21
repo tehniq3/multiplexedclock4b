@@ -40,7 +40,8 @@ int segG =   7; // pin for control "g" segment
 int segDP = 13; // pin for control decimal point
 
 #define DIODA A7  // pin for conect 1N4148 diode and GND
-                  // (+5V---10k---A7--|>|--GND)                  
+                  // (+5V---10k---A7--|>|--GND)      
+                  
 #define BTN1 A2   // pin for MENU/change  (A2---BTN1---GND)
 
 #define BTN2 A3   // pin for increase value + (A3---BTN2--GND)
