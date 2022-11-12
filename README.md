@@ -1,6 +1,7 @@
 # multiplexedclock4b
 based on https://github.com/tehniq3/multiplexedclock4
 
+actual schematic: https://github.com/tehniq3/multiplexedclock4b/blob/main/schema_ceas_multiplexat_reglaj_dioda_LDR_2022.png
 
 ver.4.7 - change DHT sensor with 1N4148 diode
 
