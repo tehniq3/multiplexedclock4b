@@ -3,6 +3,8 @@ based on https://github.com/tehniq3/multiplexedclock4
 
 actual schematic: https://github.com/tehniq3/multiplexedclock4b/blob/main/schema_ceas_multiplexat_reglaj_dioda_LDR_2022.png
 
+<img src="https://github.com/tehniq3/multiplexedclock4b/blob/main/schema_ceas_multiplexat_reglaj_dioda_LDR_2022.png" width=30% height=30%>
+
 ver.4.7 - change DHT sensor with 1N4148 diode
 
 ver.4.7.x - variable for no sensor or diode / LDR (photodiode) + n changes in menus if buton for MENU remain pushed
