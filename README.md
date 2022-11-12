@@ -4,7 +4,7 @@ based on https://github.com/tehniq3/multiplexedclock4
 
 ver.4.7 - change DHT sensor with 1N4148 diode
 
-ver.4.7.x - variable for no sensor or diode / LDR (photodiode) + n changes in menus if buton forMENU remain pushed
+ver.4.7.x - variable for no sensor or diode / LDR (photodiode) + n changes in menus if buton for MENU remain pushed
 
 ver.4.8 - if is night, show just clock
 
